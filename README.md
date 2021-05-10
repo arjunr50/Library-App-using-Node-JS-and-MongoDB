@@ -22,4 +22,5 @@ This repository contains the files of Library app
 #### After that run these commands in your terminal
 + npm install express
 + npm install ejs
++ npm install mongoose
 
